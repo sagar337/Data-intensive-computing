@@ -1,0 +1,24 @@
+"*Beginning for the 2015-16 season, reports from public health and clinical laboratories are presented separately in the weekly influenza update, FluView. Data from clinical laboratories include the weekly total number of specimens tested, the number of positive influenza test, and the percent positive by influenza type."
+REGION TYPE,REGION,YEAR,WEEK,TOTAL SPECIMENS,TOTAL A,TOTAL B,PERCENT POSITIVE,PERCENT A,PERCENT B
+States,New York,2018,40,1454,5,2,0.48,0.34,0.14
+States,New York,2018,41,1999,7,1,0.4,0.35,0.05
+States,New York,2018,42,2068,7,0,0.34,0.34,0
+States,New York,2018,43,2152,7,2,0.42,0.33,0.09
+States,New York,2018,44,2043,8,1,0.44,0.39,0.05
+States,New York,2018,45,2106,15,1,0.76,0.71,0.05
+States,New York,2018,46,2029,24,0,1.18,1.18,0
+States,New York,2018,47,2056,30,4,1.65,1.46,0.19
+States,New York,2018,48,2442,59,7,2.7,2.42,0.29
+States,New York,2018,49,2572,63,9,2.8,2.45,0.35
+States,New York,2018,50,2852,157,10,5.86,5.5,0.35
+States,New York,2018,51,3169,266,4,8.52,8.39,0.13
+States,New York,2018,52,3399,436,7,13.03,12.83,0.21
+States,New York,2019,1,3852,513,3,13.4,13.32,0.08
+States,New York,2019,2,2698,347,8,13.16,12.86,0.3
+States,New York,2019,3,2673,421,0,15.75,15.75,0
+States,New York,2019,4,2644,553,6,21.14,20.92,0.23
+States,New York,2019,5,2810,583,2,20.82,20.75,0.07
+States,New York,2019,6,3214,831,4,25.98,25.86,0.12
+States,New York,2019,7,3413,943,2,27.69,27.63,0.06
+States,New York,2019,8,3265,908,8,28.06,27.81,0.25
+States,New York,2019,9,2933,645,6,22.2,21.99,0.2
